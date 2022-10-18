@@ -1,4 +1,12 @@
 RETAIL ORDERING SYSTEM- BACKEND
+-------------------------------
+
+Class Diagram
+--------------
+
+![Blank document (1)](https://user-images.githubusercontent.com/47521185/196499819-02f0b338-61ef-4c1b-bc66-465bf58cf732.jpeg)
+
+
 Note:
 -----
     Add Folder above RETAIL_ORDER_SYSTEM to PYTHONPATH
